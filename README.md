@@ -7,8 +7,10 @@ You can use this GitHub webpage to keep yourself update about COVID-19 daily upd
  <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CoronavirusCOVID-19GlobalCases&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
   <param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>
 </div>                
- <script type='text/javascript'>                   
+<script type='text/javascript'>                   
 var divElement = document.getElementById('viz1584221147029');                    
 var vizElement = divElement.getElementsByTagName('object')[0];                    
-if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else {vizElement.style.width='100%';vizElement.style.height='927px';}                     
+if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+ else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
+ else {vizElement.style.width='100%';vizElement.style.height='927px';}                     
 var scriptElement = document.createElement('script');
