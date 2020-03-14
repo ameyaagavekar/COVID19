@@ -10,6 +10,7 @@ You can use this GitHub webpage to keep yourself update about COVID-19 daily upd
   <script type='text/javascript'>                   
 var divElement = document.getElementById('viz1584221147029');                    
  var vizElement = divElement.getElementsByTagName('object')[0];                    
- if ( divElement.offsetWidth > 800 ) { vizElement.style.width='200%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='200%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='200%';vizElement.style.height='927px';}                     var scriptElement = document.createElement('script');                    
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.width='2000%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='2000%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='2000%';vizElement.style.height='927px';}                     
+ var scriptElement = document.createElement('script');                    
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
