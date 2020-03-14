@@ -1,8 +1,7 @@
 ## Welcome to COVID19 Tabelau Dashboard
 
-You can use the [editor on GitHub](https://github.com/ameyaagavekar/COVID19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this GitHub webpage to keep yourself update about COVID-19 daily updates. The Dashboard represents the total confirmed, total deaths, total recovered cases along with their geogrphical locations on the world map. The dashboard update frequency is daily. The data compilation and collection credits goes to John Hopkins University and WHO.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
